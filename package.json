@@ -1,0 +1,21 @@
+{
+  "name": "theme-kuromi",
+  "displayName": "theme-kuromi",
+  "description": "For the Girl Who Likes Kuromi",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme-kuromi",
+        "uiTheme": "vs",
+        "path": "./themes/theme-kuromi-color-theme.json"
+      }
+    ]
+  }
+}
